@@ -2,6 +2,8 @@
 
 During the Demo Jam (https://www.cloudera.com/about/events/webinars/demo-jam-live-expands-nifi-kafka-flink.html) we showed some use cases with Apache NiFi, Apache Kafka and Apache Flink.  We used the latest tools from Cloudera to quickly build, deploy, scale, monitor and manage our real-time streaming application.   We used Cloudera Streams Messaging Manager (SMM) for Kafka, SQL Stream Builder for Flink and Cloudera Flow Management on Data Hub for NiFi.   We ran in public and private clouds and local environments seamlessly.
 
+![](https://raw.githubusercontent.com/tspannhw/DemoJam2021/main/archdiagram.png)
+
 # To Build a FLaNK Environment of NiFi, Kafka, Flink
 
 https://github.com/tspannhw/CloudDemo2021
