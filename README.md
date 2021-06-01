@@ -16,7 +16,11 @@ https://github.com/tspannhw/CloudDemo2021
 * https://www.datainmotion.dev/2021/01/automating-starting-services-in-apache.html
 * https://www.slideshare.net/bunkertor/flink-sql-for-continuous-sql-etl-apps-apache-nifi-devops
 
+![](https://raw.githubusercontent.com/tspannhw/DemoJam2021/main/DemoJamOverviewNiFi.png)
 
+![](https://raw.githubusercontent.com/tspannhw/DemoJam2021/main/edgeFlow.png)
+
+![](https://raw.githubusercontent.com/tspannhw/DemoJam2021/main/nifioverview.png)
 
 Are you looking for a simpler way to accelerate data ingestion, transformation, processing, buffering, and real-time analytics?  This new demo jam webinar will showcase our latest streaming data platform, Cloudera DataFlow, using Apache NiFi, Apache Kafka, and Apache Flink. We will demonstrate how much easier it is to build end-to-end processing of data streams and real-time analytics.  Just like the previous session, this will be a no-slides, highly interactive demo-only session where you get to choose what you want to see based on live polling.
 
